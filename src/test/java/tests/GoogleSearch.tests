@@ -1,0 +1,9 @@
+
+Test: Search on Google
+#Search #Google #demo
+Step: Enter 'Cheeze' @SearchBox
+Step: Press Enter
+Step: pause until @firstResult is displayed
+Verify: @firstResult is displayed
+Step: Print text @firstResult
+End
