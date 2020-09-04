@@ -1,8 +1,4 @@
 {
 "SearchBox" : "q",
   "firstResult" : "(//div[@id=\"search\"]//h3)[1]"
-
-
-
-
 }

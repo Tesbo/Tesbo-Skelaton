@@ -1,0 +1,16 @@
+{
+  "run": {
+    "baseUrl": "https://google.com/ncr",
+    "by": {
+      "tag": [
+        "Search"
+      ]
+    },
+    "browser": {
+      "name": [
+        "chrome"
+      ]
+    }
+
+  }
+}
